@@ -1,0 +1,1 @@
+# Interpolacion_Generativa_Krita
